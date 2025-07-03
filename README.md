@@ -30,16 +30,13 @@ More projects are coming stay tuned .
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-
-## GitHub Stats
-
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamBhatia-dev&show_icons=true&theme=radical)
+## Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamBhatia-dev&layout=compact&theme=radical)
 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://in.linkedin.com/in/shubham-bhatia-97b19b313)
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/ShubhamBhatia-dev)
+
 
 Looking forward to connecting with you! 😊
