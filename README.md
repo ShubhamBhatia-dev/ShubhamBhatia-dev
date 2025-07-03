@@ -1,16 +1,9 @@
 # Hi there, I'm Shubham Bhatia! 👋
 
 ## About Me
-
-I'm a passionate software developer with a keen interest in full-stack development. I love learning new technologies and applying them to solve real-world problems. My journey in the tech world has been fueled by curiosity and a drive to innovate.
-
-- 🌱 I’m currently learning advanced concepts in React and Node.js.
-- 👯 I’m looking to collaborate on open-source projects.
-- 🤔 I’m looking for help with mastering Kubernetes and container orchestration.
-- 💬 Ask me about web development, JavaScript, and open-source contributions.
-- 😄 Pronouns: He/Him
-- ⚡  I love playing chess and solving puzzles in my free time.
-
+Exploring skills in Data science . 
+Excited to learn new frameworks like langchain .
+More projects are coming stay tuned .
 ## Skills
 
 ### Languages
